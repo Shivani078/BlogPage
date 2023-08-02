@@ -1,0 +1,2 @@
+# BlogPage
+Technology blogs page
